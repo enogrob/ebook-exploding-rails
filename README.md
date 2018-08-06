@@ -17,9 +17,9 @@ Learn everything you need to about the subject of this `eBook` project.
 ## Topics
 ```
 Introduction
-[ ] Where did this book come from?
-[ ] Who is this book for?
-[ ] Acknowledgements
+[x] Where did this book come from?
+[x] Who is this book for?
+[x] Acknowledgements
 Preface
 [ ] Where Rails falls down
 [ ] The problems with Active Record Models
